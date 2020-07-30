@@ -253,6 +253,10 @@ ul.banner-social-buttons {
   ul.banner-social-buttons li:last-child {
     margin-bottom: 0;
   }
+  .lang_text{
+    font-size: 0.9em;
+    padding-left: 15px;
+  }
 }
 
 footer {
