@@ -183,7 +183,7 @@ a:focus, a:hover {
 }
 
 .content-section {
-  padding-top: 150px;
+  padding-top: 120px;
   padding-bottom: 150px;
 }
 
@@ -286,4 +286,13 @@ img::-moz-selection {
 
 #cardPargraph {
   font-size: 12px;
+}
+
+.lang {
+  width: 100px;
+  height: 100px;
+}
+.lang_text {
+  text-transform: none;
+  padding-top: 10px;
 }
